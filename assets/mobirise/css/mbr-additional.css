@@ -1447,10 +1447,10 @@ body {
   text-align: center;
 }
 .cid-rksHciVwQS {
-  background: #cebfaf;
+  background: #6c16b0;
   padding-top: 30px;
   padding-bottom: 45px;
-  background: linear-gradient(0deg, #cebfaf, #e1a148);
+  background: linear-gradient(0deg, #6c16b0, #dab47f);
 }
 .cid-rksHciVwQS .video-block {
   margin: auto;
@@ -1463,7 +1463,7 @@ body {
 .cid-rI7xaO2YHm {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #d4d8d7;
 }
 .cid-rI7xaO2YHm h4 {
   font-weight: 500;
@@ -1620,6 +1620,28 @@ body {
 }
 .cid-rI3F2zZKiw .mbr-text {
   color: #767676;
+}
+.cid-rI8PmS5mvQ {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #e1a148, #0f7699);
+}
+.cid-rI8PmS5mvQ .image-block {
+  margin: auto;
+}
+.cid-rI8PmS5mvQ figcaption {
+  position: relative;
+}
+.cid-rI8PmS5mvQ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rI8PmS5mvQ .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rlMASPx82Z {
   background-image: url("../../../assets/images/background4.jpg");
